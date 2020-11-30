@@ -16,8 +16,8 @@ In this repository, there are :
 
 
 ## Project Description
-Using advanced python and basics Tableau ressources we learnt those five last weeks, I choosed to work on a toddler autism dataset to put into practice Data Visualization and Hypothesis Testing.
+Using advanced python and basics Tableau resources we learnt those five last weeks, I choosed to work on a toddler autism dataset to put into practice Data Visualization and Hypothesis Testing.
 
 
 ## Links
-[Repository]https://github.com/MarieNav/Data-Analytics_Toddler-Autism
+* [Repository](https://github.com/MarieNav/Data-Analytics_Toddler-Autism)
